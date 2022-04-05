@@ -1,97 +1,51 @@
 {
-  "project_info": {
-    "project_number": "72973568770",
-    "project_id": "wall-e-24b6e",
-    "storage_bucket": "wall-e-24b6e.appspot.com"
-  },
-  "client": [
+  "Ads": [
     {
-      "client_info": {
-        "mobilesdk_app_id": "1:72973568770:android:d14ac736999de11f01901b",
-        "android_client_info": {
-          "package_name": "com.ibrapps.wall4k"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB859Ahlt6P0CC5TCVQuB-_maGX1Kx3c9g"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 4,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+ 
+ ],
+  "More":
+  [
     {
-      "client_info": {
-        "mobilesdk_app_id": "1:72973568770:android:32773cb2ff3db6c501901b",
-        "android_client_info": {
-          "package_name": "com.ibrapps.wallhd"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB859Ahlt6P0CC5TCVQuB-_maGX1Kx3c9g"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:72973568770:android:55d63c1725cf581001901b",
-        "android_client_info": {
-          "package_name": "com.ibrapps.wallspidey"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB859Ahlt6P0CC5TCVQuB-_maGX1Kx3c9g"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     }
   ],
-  "configuration_version": "1"
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Nature",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+    }
+  ]
 }
