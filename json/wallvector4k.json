@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "72973568770",
+    "project_id": "wall-e-24b6e",
+    "storage_bucket": "wall-e-24b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72973568770:android:d14ac736999de11f01901b",
+        "android_client_info": {
+          "package_name": "com.ibrapps.wall4k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB859Ahlt6P0CC5TCVQuB-_maGX1Kx3c9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72973568770:android:32773cb2ff3db6c501901b",
+        "android_client_info": {
+          "package_name": "com.ibrapps.wallhd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB859Ahlt6P0CC5TCVQuB-_maGX1Kx3c9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72973568770:android:55d63c1725cf581001901b",
+        "android_client_info": {
+          "package_name": "com.ibrapps.wallspidey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB859Ahlt6P0CC5TCVQuB-_maGX1Kx3c9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72973568770-rau4rtjbeh92sg55dbks5rs6bnc5limv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
