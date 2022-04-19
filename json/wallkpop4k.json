@@ -60,7 +60,7 @@
     {
       "id": 3,
       "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "image": "https://hrswnt.github.io/content/bts/car.jpg"
 
     }
   ],
@@ -69,40 +69,723 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img001.webp"
     },
     {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "id":2,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img002.webp"
     },
     {
       "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img003.webp"
     },
     {
       "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img004.webp"
+    },
     {
       "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img005.webp"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img006.webp"
+    },
+    {
+      "id":7,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img007.webp"
+    },
+    {
+      "id":8,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img008.webp"
+    },
+    {
+      "id":9,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img009.webp"
+    },
+    {
+      "id":10,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img010.webp"
+    },
+    {
+      "id":11,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img011.webp"
+    },
+    {
+      "id":12,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img012.webp"
+    },
+    {
+      "id":13,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img013.webp"
+    },
+    {
+      "id":14,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img014.webp"
+    },
+    {
+      "id":15,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img015.webp"
+    },
+    {
+      "id":16,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img016.webp"
+    },
+    {
+      "id":17,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img017.webp"
+    },
+    {
+      "id":18,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img018.webp"
+    },
+    {
+      "id":19,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img019.webp"
+    },
+    {
+      "id":20,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img020.webp"
+    },
+    {
+      "id":21,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img021.webp"
+    },
+    {
+      "id":22,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img022.webp"
+    },
+    {
+      "id":23,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img023.webp"
+    },
+    {
+      "id":24,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img024.webp"
+    },
+    {
+      "id":25,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img025.webp"
+    },
+    {
+      "id":26,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img026.webp"
+    },
+    {
+      "id":27,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img027.webp"
+    },
+    {
+      "id":28,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img028.webp"
+    },
+    {
+      "id":29,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img029.webp"
+    },
+    {
+      "id":30,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img030.webp"
+    },
+    {
+      "id":31,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img031.webp"
+    },
+    {
+      "id":32,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img032.webp"
+    },
+    {
+      "id":33,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img033.webp"
+    },
+    {
+      "id":34,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img034.webp"
+    },
+    {
+      "id":35,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img035.webp"
+    },
+    {
+      "id":36,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img036.webp"
+    },
+    {
+      "id":37,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img037.webp"
+    },
+    {
+      "id":38,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img038.webp"
+    },
+    {
+      "id":39,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img039.webp"
+    },
+    {
+      "id":40,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img040.webp"
+    },
+    {
+      "id":41,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img041.webp"
+    },
+    {
+      "id":42,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img042.webp"
+    },
+    {
+      "id":43,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img043.webp"
+    },
+    {
+      "id":44,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img044.webp"
+    },
+    {
+      "id":45,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img045.webp"
+    },
+    {
+      "id":46,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img046.webp"
+    },
+    {
+      "id":47,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img047.webp"
+    },
+    {
+      "id":48,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img048.webp"
+    },
+    {
+      "id":49,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img049.webp"
+    },
+    {
+      "id":50,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img050.webp"
+    },
+    {
+      "id":51,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img051.webp"
+    },
+    {
+      "id":52,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img052.webp"
+    },
+    {
+      "id":53,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img053.webp"
+    },
+    {
+      "id":54,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img054.webp"
+    },
+    {
+      "id":55,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img055.webp"
+    },
+    {
+      "id":56,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img056.webp"
+    },
+    {
+      "id":57,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img057.webp"
+    },
+    {
+      "id":58,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img058.webp"
+    },
+    {
+      "id":59,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img059.webp"
+    },
+    {
+      "id":60,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img060.webp"
+    },
+    {
+      "id":61,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img061.webp"
+    },
+    {
+      "id":62,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img062.webp"
+    },
+    {
+      "id":63,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img063.webp"
+    },
+    {
+      "id":64,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img064.webp"
+    },
+    {
+      "id":65,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img065.webp"
+    },
+    {
+      "id":66,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img066.webp"
+    },
+    {
+      "id":67,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img067.webp"
+    },
+    {
+      "id":68,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img068.webp"
+    },
+    {
+      "id":69,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img069.webp"
+    },
+    {
+      "id":70,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img070.webp"
+    },
+    {
+      "id":71,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img071.webp"
+    },
+    {
+      "id":72,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img072.webp"
+    },
+    {
+      "id":73,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img073.webp"
+    },
+    {
+      "id":74,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img074.webp"
+    },
+    {
+      "id":75,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img075.webp"
+    },
+    {
+      "id":76,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img076.webp"
+    },
+    {
+      "id":77,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img077.webp"
+    },
+    {
+      "id":78,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img078.webp"
+    },
+    {
+      "id":79,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img079.webp"
+    },
+    {
+      "id":80,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img080.webp"
+    },
+    {
+      "id":81,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img081.webp"
+    },
+    {
+      "id":82,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img082.webp"
+    },
+    {
+      "id":83,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img083.webp"
+    },
+    {
+      "id":84,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img084.webp"
+    },
+    {
+      "id":85,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img085.webp"
+    },
+    {
+      "id":86,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img086.webp"
+    },
+    {
+      "id":87,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img087.webp"
+    },
+    {
+      "id":88,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img088.webp"
+    },
+    {
+      "id":89,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img089.webp"
+    },
+    {
+      "id":90,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img090.webp"
+    },
+    {
+      "id":91,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img091.webp"
+    },
+    {
+      "id":92,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img092.webp"
+    },
+    {
+      "id":93,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img093.webp"
+    },
+    {
+      "id":94,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img094.webp"
+    },
+    {
+      "id":95,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img095.webp"
+    },
+    {
+      "id":96,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img096.webp"
+    },
+    {
+      "id":97,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img097.webp"
+    },
+    {
+      "id":98,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img098.webp"
+    },
+    {
+      "id":99,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img099.webp"
+    },
+    {
+      "id":100,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img100.webp"
+    },
+    {
+      "id":101,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img101.webp"
+    },
+    {
+      "id":102,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img102.webp"
+    },
+    {
+      "id":103,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img103.webp"
+    },
+    {
+      "id":104,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img104.webp"
+    },
+    {
+      "id":105,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img105.webp"
+    },
+    {
+      "id":106,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img106.webp"
+    },
+    {
+      "id":107,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img107.webp"
+    },
+    {
+      "id":108,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img108.webp"
+    },
+    {
+      "id":109,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img109.webp"
+    },
+    {
+      "id":110,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img110.webp"
+    },
+    {
+      "id":111,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img111.webp"
+    },
+    {
+      "id":112,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img112.webp"
+    },
+    {
+      "id":113,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img113.webp"
+    },
+    {
+      "id":114,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img114.webp"
+    },
+    {
+      "id":115,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img115.webp"
+    },
+    {
+      "id":116,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img116.webp"
+    },
+    {
+      "id":117,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img117.webp"
+    },
+    {
+      "id":118,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img118.webp"
+    },
+    {
+      "id":119,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img119.webp"
+    },
+    {
+      "id":120,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img120.webp"
     }
   ]
 }
