@@ -1,0 +1,311 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 6,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "matikan_iklan":"0"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "https://hrswnt.github.io/content/bts/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img001.webp"
+    },
+    {
+      "id":2,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img002.webp"
+    },
+    {
+      "id":3,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img003.webp"
+    },
+    {
+      "id":4,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img004.webp"
+    },
+    {
+      "id":5,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img005.webp"
+    },
+    {
+      "id":6,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img006.webp"
+    },
+    {
+      "id":7,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img007.webp"
+    },
+    {
+      "id":8,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img008.webp"
+    },
+    {
+      "id":9,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img009.webp"
+    },
+    {
+      "id":10,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img010.webp"
+    },
+    {
+      "id":11,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img011.webp"
+    },
+    {
+      "id":12,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img012.webp"
+    },
+    {
+      "id":13,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img013.webp"
+    },
+    {
+      "id":14,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img014.webp"
+    },
+    {
+      "id":15,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img015.webp"
+    },
+    {
+      "id":16,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img016.webp"
+    },
+    {
+      "id":17,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img017.webp"
+    },
+    {
+      "id":18,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img018.webp"
+    },
+    {
+      "id":19,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img019.webp"
+    },
+    {
+      "id":20,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img020.webp"
+    },
+    {
+      "id":21,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img021.webp"
+    },
+    {
+      "id":22,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img022.webp"
+    },
+    {
+      "id":23,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img023.webp"
+    },
+    {
+      "id":24,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img024.webp"
+    },
+    {
+      "id":25,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img025.webp"
+    },
+    {
+      "id":26,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img026.webp"
+    },
+    {
+      "id":27,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img027.webp"
+    },
+    {
+      "id":28,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img028.webp"
+    },
+    {
+      "id":29,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img029.webp"
+    },
+    {
+      "id":30,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img030.webp"
+    },
+    {
+      "id":31,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img031.webp"
+    },
+    {
+      "id":32,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img032.webp"
+    },
+    {
+      "id":33,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img033.webp"
+    },
+    {
+      "id":34,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img034.webp"
+    },
+    {
+      "id":35,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img035.webp"
+    },
+    {
+      "id":36,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img036.webp"
+    },
+    {
+      "id":37,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img037.webp"
+    },
+    {
+      "id":38,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img038.webp"
+    },
+    {
+      "id":39,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img039.webp"
+    },
+    {
+      "id":40,
+      "name_category": "KPopLive",
+      "title":"",
+      "image":"https://hrswnt.github.io/content/bts/img040.webp"
+    }
+  ]
+}
