@@ -35,5 +35,23 @@
       "title":"Cute Kitten 4K",
       "image":"https://hrswnt.github.io/fitur/kitten.png",
       "link":"https://play.google.com/store/apps/details?id=com.ibrapps.cutekitten4k"
+    },
+    {
+      "id":7,
+      "title":"Aesthetic Blackpink Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/bpink.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallbpinkhd"
+    },
+    {
+      "id":8,
+      "title":"Angry Live Screen 4K",
+      "image":"https://hrswnt.github.io/fitur/angry.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.angrylive4k"
+    },
+    {
+      "id":9,
+      "title":"Wild Animal 4K Live Screen",
+      "image":"https://hrswnt.github.io/fitur/wild.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wild4kanimal"
     }
   ],
