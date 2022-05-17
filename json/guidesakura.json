@@ -20,73 +20,108 @@
       "link_redirect": "https://"
     }
   ],
-   "More": [
+   "More":
+  [
     {
-      "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "id":1,
+      "title":"Super Hero 4K",
+      "image":"https://hrswnt.github.io/fitur/wall4k.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wall4k"
     },
     {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+      "id":2,
+      "title":"AC Milan 4K",
+      "image":"https://hrswnt.github.io/fitur/acmilan.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.rossonerimilan4kwp"
     },
     {
-      "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+      "id":3,
+      "title":"BTS Army 4K",
+      "image":"https://hrswnt.github.io/fitur/kpop.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallkpop4k"
     },
     {
-      "id": 4,
-      "title": "Scanner Document App - HD PDF",
-      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+      "id":4,
+      "title":"Vector HD",
+      "image":"https://hrswnt.github.io/fitur/wallhd.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallhd"
     },
     {
-      "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+      "id":5,
+      "title":"Game Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/game.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.gamewall4k"
     },
     {
-      "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+      "id":6,
+      "title":"Cute Kitten 4K",
+      "image":"https://hrswnt.github.io/fitur/kitten.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.cutekitten4k"
     },
     {
-      "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+      "id":7,
+      "title":"Aesthetic Blackpink Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/bpink.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallbpinkhd"
     },
     {
-      "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+      "id":8,
+      "title":"Angry Live Screen 4K",
+      "image":"https://hrswnt.github.io/fitur/angry.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.angrylive4k"
+    },
+    {
+      "id":9,
+      "title":"Wild Animal 4K Live Screen",
+      "image":"https://hrswnt.github.io/fitur/wild.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wild4kanimal"
+    },
+    {
+      "id":10,
+      "title":"Sport Cars 4K Wallpapers",
+      "image":"https://hrswnt.github.io/fitur/sportcars.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sportcars4k"
+    },
+    {
+      "id":11,
+      "title":"Sakura School 4K Wallpapers",
+      "image":"https://hrswnt.github.io/fitur/sakura4k.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakura4kwall"
+    },
+    {
+      "id":12,
+      "title":"Cute Animasi Wallpapers",
+      "image":"https://hrswnt.github.io/fitur/tsum4d.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.tsum4dwall"
+    },
+    {
+      "id":13,
+      "title":"Jennie Kim UHD Blackpink Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/jennie.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.jennie4kwallp"
+    },
+    {
+      "id":14,
+      "title":"Jisoo Blackpink UHD Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/jisoo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.jisoo4kwallp"
+    },
+    {
+      "id":15,
+      "title":"Guide Trick Buliding Sakura Sch",
+      "image":"https://hrswnt.github.io/fitur/guidesakura.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakuraguide"
     }
   ],
+  
   "Categories": [
     {
       "id": 1,
       "name_category": "Playstore",
       "image": "file:///android_asset/image/image1.png"
-    },
-    {
-      "id": 2,
-      "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
-    },
-    {
-      "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
     }
   ],
+  
   "Data": [
     {
       "id": 1,
