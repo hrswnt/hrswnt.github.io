@@ -32,17 +32,97 @@
     {
       "id": 1,
       "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "image": "https://hrswnt.github.io/content/giudesakura/img/image1.png"
     }
   ],
   "Data": [
-    {
+     {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "file:///android_asset/guide/guide1.html"
+      "name_category": "Bangunan",
+      "title": "Id Props Bangunan Umum",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/bangunan.webp",
+      "description": "Hallo Guys.. Lihat ID Props Parkour, Restoran Tepi Pantai, Seven Mall, ID Taman Bermain, Rumah Minimalis Diatas Cafe, Labirin, Dekorasi Tempat Konser, Sirkuit Balap, Dekorasi Rumah Girls, Rumah Bawah Tanah, Rumah Pink, Rumah Pedesaan, Restoran Tepi Pantai, Dekorasi Rumah Hati, Rumah Pohon, Rumah Doraemon, Villa Minimalis disini",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Bangunan",
+      "title": "ID Props Rumah Mewah",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/rumah_mewah.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Rumah Mewah Emas, Rumah Mewah Aesthetic, Rumah Mewah Akun Seven to Six, Rumah Mewah Dekat Villa, Rumah Mewah Depan Park, Rumah Mewah, Rumah Mewah ChoCholate, Rumah Mewah Lucu & Imut, Rumah Mewah Biru, Rumah Kaca Mewah disini",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Bangunan",
+      "title": "ID Props Bangunan Random",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/random.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Bangunan Random disini",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Bangunan",
+      "title": "ID Props Rumah Animasi Upin dan Ipin",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/id-rumah-upin-dan-ipin.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Rumah Upin dan Ipin, Rumah MeiMei, Rumah Mail, Rumah Tok Dalang, Rumah Fizi, Rumah JarJit Singh, Rumah Susanti, Rumah Ehsan, TK upin dan Ipin di sini",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Fasilitas Umum",
+      "title": "ID Props Bandara Pesawat",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/pesawat.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Pesawat Garuda Indonesia, Pesawat Sakura AirLines, Pesawat Lion Air, Pesawat Sriwijaya Air",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Bangunan",
+      "title": "ID Props Bangunan Aesthetic",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/BangunanAesthetic.PNG",
+      "description": "Hallo Guys.. Lihat ID Props Rumah Doraemon Aesthetic Pink, Rumah Kaca Aesthetic, Rumah Aesthetic 2 Lantai, Rumah Minimalis Aesthetic, Small Purple House Aesthetic, Rumah Kaca 2 Aesthetic, Toko Bunga Asthetic",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Fasilitas Umum",
+      "title": "ID Props Simulator Masjid",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/masjid.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Masjid, Masjid Agung Sakura, Masjid Al Amin, Masjid Alun Alun Cianjur, Masjib Baitul Ikhlas, Masjid As Sholihin",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Fasilitas Umum",
+      "title": "ID Props Waterpark dan Waterboom",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/waterpark.jpg",
+      "description": "Hallo Guys.. Lihat ID Water Park atau Waterpark, Waterboom adalah wahana permainan air tempat bermain bagi Anak, Remaja maupun Dewasa. Dan tahukah kamu di Sakura School Simulator juga ada beberapa Wahana Air yang menyenankan dan dekorasi yang indah",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Fasilitas Umum",
+      "title": "ID Props Sekolahan",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/sekolahan.jpg",
+      "description": "Hallo Guys.. Lihat ID Sekolah adalah tempat pelaksanaan proses belajar dan mengajar, serta wadah bagi siswa untuk memperoleh  Ilmu. Sakura School Simulator sendiri merupakan Game Simulasi dengan  Latar Belakang Remaja Sekolah SMA. Nah, bagi kalian yang sedang mencari  Kode ID Props untuk Bangunan Sekolah yang keren dan indah. Silahkan lihat tabel dibawah ini",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Style",
+      "title": "ID Props Parkour",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/parkur.jpg",
+      "description": "Hallo Guys.. Lihat ID Parkour atau dalam bahasa indonesia Parkur adalah sejenis aktifitas olehraga rintangan dimana pemainnya akan berusaha untuk melewati rintangan dengan waktu secepat mungkin. Berikutnya untuk kamu yang sedang mencari ID Props Parkur bisa melihat tabel dibawah ini",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Fasilitas Umum",
+      "title": "ID Props Rumah Hantu",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/hantu.jpg",
+      "description": "Hallo Guys.. Lihat ID Rumah hantu alias hunian serang yang berhantu penuh dengan setan di Sakura School Simulator adalah tempat atau wahana bermain yang didekorasi dengan tampilan yang seram dan horor. Dimana didalamnya dihuni oleh makhluk-makhluk halus buatan. Bagi kalian yang sedang mencari Rekomendasi ID Props untuk bangunan berhantu, simak tabel dibawah ini",
+      "link": "https://hrswnt.github.io/content/giudesakura/html/guide11.html"
     }
   ]
 }
