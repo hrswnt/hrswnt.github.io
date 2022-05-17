@@ -31,8 +31,18 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "https://hrswnt.github.io/content/giudesakura/img/image1.png"
+      "name_category": "Bangunan",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/bangunan.webp"
+    },
+	{
+      "id": 1,
+      "name_category": "Fasilitas Umum",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/pesawat.jpg"
+    },
+	{
+      "id": 1,
+      "name_category": "Style",
+      "image": "https://hrswnt.github.io/content/giudesakura/img/parkur.jpg"
     }
   ],
   "Data": [
