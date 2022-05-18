@@ -169,27 +169,43 @@
     },
     {
       "id": 6,
-      "name_category": "Toko Swalayan",
-      "title": "ID Props Sakura School Simulator Alfamart dan Indomart",
-      "image": "https://hrswnt.github.io/content/guidebts/img/indomaret.jpg",
-      "description": "Hallo Guys.. Lihat ID Props Sakura School Simulator Alfamart dan Indomart",
+      "name_category": "Guide Menikah",
+      "title": "6. Ajak ke Tempat Melangsungkan Pernikahan",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah6.jpg",
+      "description": "Ada banyak cara yang bisa kamu lakukan untuk membawa pengatin Wanita ke Pernikahan",
       "link": "https://hrswnt.github.io/content/guidebts/html/guide6.html"
     },
     {
       "id": 7,
-      "name_category": "Rumah Peri",
-      "title": "ID Props Sakura School Simulator Apartemen Shinbi House",
-      "image": "https://hrswnt.github.io/content/guidebts/img/shinbi.jpg",
-      "description": "Hallo Guys.. Lihat ID Props Sakura School Simulator Apartemen Shinbi House",
+      "name_category": "Guide Menikah",
+      "title": "7. Tahap Persiapan Ketiga: Tamu Undangan",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah7.jpg",
+      "description": "Mempersiapkan tamu undangan adalah hal yang penting, Pernikahan tidak akan meriah jika dilaksanan tanpa tamu undangan",
       "link": "https://hrswnt.github.io/content/guidebts/html/guide7.html"
     },
     {
       "id": 8,
-      "name_category": "Rumah Peri",
-      "title": "ID Props Sakura School Simulator Attack On Titan",
-      "image": "https://hrswnt.github.io/content/guidebts/img/attack.jpg",
-      "description": "Hallo Guys.. Lihat ID Props Sakura School Simulator Attack On Titan",
+      "name_category": "Guide Menikah",
+      "title": "8. Bawa Tamu Undangan ke Lokasi Pernikahan",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah8.jpg",
+      "description": "Setelah banyak karakter mengikuti kamu tugas kamu sekarang ialah membawa mereka ke Lokasi tempat kamu melaksanan pernikahan",
       "link": "https://hrswnt.github.io/content/guidebts/html/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Guide Menikah",
+      "title": "9. Buat Suasana Pernikahan",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah9.jpg",
+      "description": "Setelah membawa tamu undangan ke Lokasi tugas kamu selanjutnya ialah membuat suasan seperti Pernikahan sesungguhnya.",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Guide Menikah",
+      "title": "10. Pernikahan Berlangsung",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah10.jpg",
+      "description": "Setelah berganti karakter menjadi mempelai pria kamu bisa membuat pemandangan dan sudut yang tepat untuk melaksanakan pernikahan.",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide10.html"
     }
   ]
 }
