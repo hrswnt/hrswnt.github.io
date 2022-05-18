@@ -1,0 +1,195 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More":
+  [
+    {
+      "id":1,
+      "title":"Guide Rumah Kpop Sakura School",
+      "image":"https://hrswnt.github.io/fitur/quidekpop.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.guidesakurakpop"
+    },
+    {
+      "id":2,
+      "title":"Guide Trick Buliding Sakura Sch",
+      "image":"https://hrswnt.github.io/fitur/guidesakura.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakuraguide"
+    },
+    {
+      "id":3,
+      "title":"BTS Army 4K",
+      "image":"https://hrswnt.github.io/fitur/kpop.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallkpop4k"
+    },
+    {
+      "id":4,
+      "title":"Vector HD",
+      "image":"https://hrswnt.github.io/fitur/wallhd.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallhd"
+    },
+    {
+      "id":5,
+      "title":"Game Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/game.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.gamewall4k"
+    },
+    {
+      "id":6,
+      "title":"Cute Kitten 4K",
+      "image":"https://hrswnt.github.io/fitur/kitten.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.cutekitten4k"
+    },
+    {
+      "id":7,
+      "title":"Aesthetic Blackpink Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/bpink.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallbpinkhd"
+    },
+    {
+      "id":8,
+      "title":"Angry Live Screen 4K",
+      "image":"https://hrswnt.github.io/fitur/angry.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.angrylive4k"
+    },
+    {
+      "id":9,
+      "title":"Wild Animal 4K Live Screen",
+      "image":"https://hrswnt.github.io/fitur/wild.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wild4kanimal"
+    },
+    {
+      "id":10,
+      "title":"Sport Cars 4K Wallpapers",
+      "image":"https://hrswnt.github.io/fitur/sportcars.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sportcars4k"
+    },
+    {
+      "id":11,
+      "title":"Sakura School 4K Wallpapers",
+      "image":"https://hrswnt.github.io/fitur/sakura4k.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakura4kwall"
+    },
+    {
+      "id":12,
+      "title":"Cute Animasi Wallpapers",
+      "image":"https://hrswnt.github.io/fitur/tsum4d.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.tsum4dwall"
+    },
+    {
+      "id":13,
+      "title":"Jennie Kim UHD Blackpink Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/jennie.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.jennie4kwallp"
+    },
+    {
+      "id":14,
+      "title":"Jisoo Blackpink UHD Wallpaper",
+      "image":"https://hrswnt.github.io/fitur/jisoo.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.jisoo4kwallp"
+    },
+	{
+      "id":15,
+      "title":"Super Hero 4K",
+      "image":"https://hrswnt.github.io/fitur/wall4k.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wall4k"
+    },
+    {
+      "id":16,
+      "title":"AC Milan 4K",
+      "image":"https://hrswnt.github.io/fitur/acmilan.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.rossonerimilan4kwp"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Guide Menikah",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah1.jpg"
+    }
+  ],
+  "Data": [
+     {
+      "id": 1,
+      "name_category": "Guide Menikah",
+      "title": "1. Tahap Pernikahan Sakura School Simulator: Persiapan",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah1.jpg",
+      "description": "Persiapan dalam pernikahan pasti kamu sudah pernah mendengarkannya, pada dasarnya menikah di dunia nyata dan di fantasipun tidak terlihat mudah seperti yang kamu bayangkan",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Guide Menikah",
+      "title": "2. Loading Game",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah2.jpg",
+      "description": "Hallo Guys.. Selain Grup Boy Band Korea ada juga Rumah Grup Girl Band Korea Blackpink sebagai wakil Grup Girl Band Internasional asal Korea Selatan yang juga mendunia. Buat Para Blink Lovers yang main game Sakura School, Dibawah ini admin memiliki ID Props dengan Desain dan Dekorasi Ala Blacpink",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Toko Swalayan",
+      "name_category": "Guide Menikah",
+      "image": "https://hrswnt.github.io/content/guidebts/img/nikah3.jpg",
+      "description": "Saat menjalankan permainan mungkin secara otomatis sistem akan membuat kamu memilih Karakter Perempuan",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Toko Swalayan",
+      "title": "ID Props Sakura School Simulator Kafe Toko dan Swalayan",
+      "image": "https://hrswnt.github.io/content/guidebts/img/swalayan.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Bisnis Kafe dan Toko di Indonesia sendiri termasuk yang paling mendominasi dan banyak tersedia di berbagai tempat. Entah itu di Kota maupun Pedesaan sekalipun. Jika kamu ingin membuat Bangunan seperti Kafe dan Toko di SSS, Maka dari itu simak NO ID PROPS dan Penjelasan dibawah ini",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Rumah Peri",
+      "title": "ID Props Sakura School Simulator Rumah Peri",
+      "image": "https://hrswnt.github.io/content/guidebts/img/peri.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Sakura School Simulator Rumah Peri",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Toko Swalayan",
+      "title": "ID Props Sakura School Simulator Alfamart dan Indomart",
+      "image": "https://hrswnt.github.io/content/guidebts/img/indomaret.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Sakura School Simulator Alfamart dan Indomart",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Rumah Peri",
+      "title": "ID Props Sakura School Simulator Apartemen Shinbi House",
+      "image": "https://hrswnt.github.io/content/guidebts/img/shinbi.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Sakura School Simulator Apartemen Shinbi House",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Rumah Peri",
+      "title": "ID Props Sakura School Simulator Attack On Titan",
+      "image": "https://hrswnt.github.io/content/guidebts/img/attack.jpg",
+      "description": "Hallo Guys.. Lihat ID Props Sakura School Simulator Attack On Titan",
+      "link": "https://hrswnt.github.io/content/guidebts/html/guide8.html"
+    }
+  ]
+}
