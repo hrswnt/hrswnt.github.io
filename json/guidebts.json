@@ -24,15 +24,15 @@
   [
     {
       "id":1,
-      "title":"Super Hero 4K",
-      "image":"https://hrswnt.github.io/fitur/wall4k.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wall4k"
+      "title":"Guide Rumah Kpop Sakura School",
+      "image":"https://hrswnt.github.io/fitur/quidekpop.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.guidesakurakpop"
     },
     {
       "id":2,
-      "title":"AC Milan 4K",
-      "image":"https://hrswnt.github.io/fitur/acmilan.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.rossonerimilan4kwp"
+      "title":"Guide Trick Buliding Sakura Sch",
+      "image":"https://hrswnt.github.io/fitur/guidesakura.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakuraguide"
     },
     {
       "id":3,
@@ -106,11 +106,17 @@
       "image":"https://hrswnt.github.io/fitur/jisoo.png",
       "link":"https://play.google.com/store/apps/details?id=com.ibrapps.jisoo4kwallp"
     },
-    {
+	{
       "id":15,
-      "title":"Guide Trick Buliding Sakura Sch",
-      "image":"https://hrswnt.github.io/fitur/guidesakura.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakuraguide"
+      "title":"Super Hero 4K",
+      "image":"https://hrswnt.github.io/fitur/wall4k.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wall4k"
+    },
+    {
+      "id":16,
+      "title":"AC Milan 4K",
+      "image":"https://hrswnt.github.io/fitur/acmilan.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.rossonerimilan4kwp"
     }
   ],
   "Categories": [
