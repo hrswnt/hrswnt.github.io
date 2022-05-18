@@ -146,17 +146,17 @@
     {
       "id": 3,
       "name_category": "Guide Menikah",
-      "name_category": "3. Gunakan Karakter Pria",
+      "title": "3. Gunakan Karakter Pria",
       "image": "https://hrswnt.github.io/content/guidenikah/img/nikah3.jpg",
       "description": "Saat menjalankan permainan mungkin secara otomatis sistem akan membuat kamu memilih Karakter Perempuan",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide2.html"
+      "link": "https://hrswnt.github.io/content/guidenikah/html/guide3.html"
     },
     {
       "id": 4,
       "name_category": "Guide Menikah",
       "title": "4. Persiapan Pernikahan Karakter Pria",
       "image": "https://hrswnt.github.io/content/guidenikah/img/nikah4.jpg",
-      "description": "Saat menjalankan permainan mungkin secara otomatis sistem akan membuat kamu memilih Karakter Perempuan",
+      "description": "Persiapan pernikahan untuk karakter wanita sudah selesai, Kini kamu menjalankan simulasi yang berbeda dengan karakter game Pria",
       "link": "https://hrswnt.github.io/content/guidenikah/html/guide4.html"
     },
     {
