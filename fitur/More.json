@@ -114,6 +114,18 @@
       "title":"NCT Dream Wallpaper HD 4K",
       "image":"https://hrswnt.github.io/fitur/nct.png",
       "link":"https://play.google.com/store/apps/details?id=com.ibrapps.nctdream4k"
+    },
+    {
+      "id":20,
+      "title":"Cara Get Money Sakura School",
+      "image":"https://hrswnt.github.io/fitur/getmoney.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakuragetmoney"
+    },
+    {
+      "id":21,
+      "title":"Cara Get Potion Sakura School",
+      "image":"https://hrswnt.github.io/fitur/getpotion.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakuragetpotion"
     }
   ]
 }
