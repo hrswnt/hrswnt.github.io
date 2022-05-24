@@ -132,6 +132,12 @@
       "title":"Tempat Misterius Sakura School",
       "image":"https://hrswnt.github.io/fitur/rahasia.png",
       "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakurarahasia"
+    },
+    {
+      "id":23,
+      "title":"Tempat Rekreasi Sakura School",
+      "image":"https://hrswnt.github.io/fitur/rekreasi.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.propsidrekreasi"
     }
   ]
 }
