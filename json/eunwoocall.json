@@ -9,9 +9,9 @@
       "main_ads_intertitial"        : "ca-app-pub-2695955353049414/4867590740",
       "main_ads_native"             : "ca-app-pub-2695955353049414/8615264068",
 
-      "backup_ads_banner"           : "db4d5e8718b97d78",
-      "backup_ads_intertitial"      : "518cd97722c60b52",
-      "backup_ads_native"           : "518cd97722c60b52",
+      "backup_ads_banner"           : "",
+      "backup_ads_intertitial"      : "",
+      "backup_ads_native"           : "",
 
       "interval_intertitial": 5,
 
