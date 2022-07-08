@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2695955353049414/5207687893",
+      "main_ads_intertitial":"ca-app-pub-2695955353049414/9458209505",
+      "native_for_admob":"ca-app-pub-2695955353049414/2581524559",
+      "backup_ads_banner":"2bb6002f6724b008",
+      "backup_ads_intertitial":"50e6ee79c1be3c57",
+      "interval_intertitial": 4,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -27,96 +27,6 @@
       "title":"Guide Rumah Kpop Sakura School",
       "image":"https://hrswnt.github.io/fitur/quidekpop.png",
       "link":"https://play.google.com/store/apps/details?id=com.ibrapps.guidesakurakpop"
-    },
-    {
-      "id":2,
-      "title":"Guide Trick Buliding Sakura Sch",
-      "image":"https://hrswnt.github.io/fitur/guidesakura.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakuraguide"
-    },
-    {
-      "id":3,
-      "title":"BTS Army 4K",
-      "image":"https://hrswnt.github.io/fitur/kpop.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallkpop4k"
-    },
-    {
-      "id":4,
-      "title":"Vector HD",
-      "image":"https://hrswnt.github.io/fitur/wallhd.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallhd"
-    },
-    {
-      "id":5,
-      "title":"Game Wallpaper",
-      "image":"https://hrswnt.github.io/fitur/game.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.gamewall4k"
-    },
-    {
-      "id":6,
-      "title":"Cute Kitten 4K",
-      "image":"https://hrswnt.github.io/fitur/kitten.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.cutekitten4k"
-    },
-    {
-      "id":7,
-      "title":"Aesthetic Blackpink Wallpaper",
-      "image":"https://hrswnt.github.io/fitur/bpink.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wallbpinkhd"
-    },
-    {
-      "id":8,
-      "title":"Angry Live Screen 4K",
-      "image":"https://hrswnt.github.io/fitur/angry.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.angrylive4k"
-    },
-    {
-      "id":9,
-      "title":"Wild Animal 4K Live Screen",
-      "image":"https://hrswnt.github.io/fitur/wild.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wild4kanimal"
-    },
-    {
-      "id":10,
-      "title":"Sport Cars 4K Wallpapers",
-      "image":"https://hrswnt.github.io/fitur/sportcars.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sportcars4k"
-    },
-    {
-      "id":11,
-      "title":"Sakura School 4K Wallpapers",
-      "image":"https://hrswnt.github.io/fitur/sakura4k.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.sakura4kwall"
-    },
-    {
-      "id":12,
-      "title":"Cute Animasi Wallpapers",
-      "image":"https://hrswnt.github.io/fitur/tsum4d.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.tsum4dwall"
-    },
-    {
-      "id":13,
-      "title":"Jennie Kim UHD Blackpink Wallpaper",
-      "image":"https://hrswnt.github.io/fitur/jennie.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.jennie4kwallp"
-    },
-    {
-      "id":14,
-      "title":"Jisoo Blackpink UHD Wallpaper",
-      "image":"https://hrswnt.github.io/fitur/jisoo.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.jisoo4kwallp"
-    },
-	{
-      "id":15,
-      "title":"Super Hero 4K",
-      "image":"https://hrswnt.github.io/fitur/wall4k.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.wall4k"
-    },
-    {
-      "id":16,
-      "title":"AC Milan 4K",
-      "image":"https://hrswnt.github.io/fitur/acmilan.png",
-      "link":"https://play.google.com/store/apps/details?id=com.ibrapps.rossonerimilan4kwp"
     }
   ],
   "Categories": [
@@ -134,78 +44,6 @@
       "image": "https://hrswnt.github.io/content/guidenikah/img/nikah1.jpg",
       "description": "Persiapan dalam pernikahan pasti kamu sudah pernah mendengarkannya, pada dasarnya menikah di dunia nyata dan di fantasipun tidak terlihat mudah seperti yang kamu bayangkan",
       "link": "https://hrswnt.github.io/content/guidenikah/html/guide1.html"
-    },
-    {
-      "id": 2,
-      "name_category": "Guide Menikah",
-      "title": "2. Loading Game",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah2.jpg",
-      "description": "Hallo Guys.. Selain Grup Boy Band Korea ada juga Rumah Grup Girl Band Korea Blackpink sebagai wakil Grup Girl Band Internasional asal Korea Selatan yang juga mendunia. Buat Para Blink Lovers yang main game Sakura School, Dibawah ini admin memiliki ID Props dengan Desain dan Dekorasi Ala Blacpink",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide2.html"
-    },
-    {
-      "id": 3,
-      "name_category": "Guide Menikah",
-      "name_category": "3. Gunakan Karakter Pria",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah3.jpg",
-      "description": "Saat menjalankan permainan mungkin secara otomatis sistem akan membuat kamu memilih Karakter Perempuan",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide3.html"
-    },
-    {
-      "id": 4,
-      "name_category": "Guide Menikah",
-      "title": "4. Persiapan Pernikahan Karakter Pria",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah4.jpg",
-      "description": "Saat menjalankan permainan mungkin secara otomatis sistem akan membuat kamu memilih Karakter Perempuan",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide4.html"
-    },
-    {
-      "id": 5,
-      "name_category": "Guide Menikah",
-      "title": "5. Pergi ke Rumah Pengantin Wanita",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah5.jpg",
-      "description": "Setelah dua persiapan diatas selesai, Kamu bisa berpindah lokasi dari menu yang sama",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide5.html"
-    },
-    {
-      "id": 6,
-      "name_category": "Guide Menikah",
-      "title": "6. Ajak ke Tempat Melangsungkan Pernikahan",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah6.jpg",
-      "description": "Ada banyak cara yang bisa kamu lakukan untuk membawa pengatin Wanita ke Pernikahan",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide6.html"
-    },
-    {
-      "id": 7,
-      "name_category": "Guide Menikah",
-      "title": "7. Tahap Persiapan Ketiga: Tamu Undangan",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah7.jpg",
-      "description": "Mempersiapkan tamu undangan adalah hal yang penting, Pernikahan tidak akan meriah jika dilaksanan tanpa tamu undangan",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide7.html"
-    },
-    {
-      "id": 8,
-      "name_category": "Guide Menikah",
-      "title": "8. Bawa Tamu Undangan ke Lokasi Pernikahan",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah8.jpg",
-      "description": "Setelah banyak karakter mengikuti kamu tugas kamu sekarang ialah membawa mereka ke Lokasi tempat kamu melaksanan pernikahan",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide8.html"
-    },
-    {
-      "id": 9,
-      "name_category": "Guide Menikah",
-      "title": "9. Buat Suasana Pernikahan",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah9.jpg",
-      "description": "Setelah membawa tamu undangan ke Lokasi tugas kamu selanjutnya ialah membuat suasan seperti Pernikahan sesungguhnya.",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide9.html"
-    },
-    {
-      "id": 10,
-      "name_category": "Guide Menikah",
-      "title": "10. Pernikahan Berlangsung",
-      "image": "https://hrswnt.github.io/content/guidenikah/img/nikah10.jpg",
-      "description": "Setelah berganti karakter menjadi mempelai pria kamu bisa membuat pemandangan dan sudut yang tepat untuk melaksanakan pernikahan.",
-      "link": "https://hrswnt.github.io/content/guidenikah/html/guide10.html"
     }
   ]
 }
